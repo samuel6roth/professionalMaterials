@@ -31,15 +31,15 @@
 }
 
 .pb_image {
-    border: solid blue 3px;
+    border: solid black 3px;
 }
 
 .hlgu_image {
-    border: solid blue 3px;
+    border: solid black 3px;
 }
 
 .washu_image {
-    border: solid blue 3px;
+    border: solid black 3px;
 }
 
 .projects_header {
@@ -60,7 +60,6 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    background-color: blanchedalmond;
 }
 
 .text_orientation {
