@@ -17,4 +17,5 @@ Samuel Roth
 ## Questions & Contact
 * GitHub Username: [samuel6roth](https://github.com/samuel6roth)
 * Email: samuel6roth@gmail.com
-![Video](https://drive.google.com/file/d/1jrwWpqkmFezQy9n8DVsSXEbgEKDkgYTm/view?usp=sharing.gif)
+## Website Preview
+![Video](./Assets/Images/video.gif)
